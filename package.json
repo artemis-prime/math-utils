@@ -1,0 +1,23 @@
+{
+  "name": "@artemis-prime/math-utils",
+  "version": "1.0.0",
+  "description": "light wrapper for window.localStorage",
+  "main": "index.js",
+  "scripts": {
+	  "_start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artemis-prime/math-utils.git"
+  },
+  "keywords": [
+    "error",
+    "node"
+  ],
+  "author": "artemis-prime",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/artemis-prime/math-utils/issues"
+  },
+  "homepage": "https://github.com/artemis-prime/math-utils#readme"
+}
